@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 16 yo teen exploring and mastering embedded systems and low level computing, learning linux kernel development. I try to follow C standards but I do not limit myself</p>
+<p align="left">I'm a 16 yo teen exploring and mastering embedded systems and low level computing, learning linux kernel development. I follow C standards but I do not limit myself</p>
 
 ###
 
@@ -23,7 +23,7 @@
 </div>
 
 ###
-- 🔭 I’m currently working on **an acounting system to automatize my homework**
+- 🔭 I’m currently working on **An accounting system to automatize my homework**
 - 🌱 I’m currently learning **Kernel Development**
 - 👯 I’m looking to collaborate on **Embedded systems projects and/or kernel development**
-- ⚡ Fun fact: I love Aurora Aksnes
+- ⚡ Fun fact: I love Aurora Aksnes music
