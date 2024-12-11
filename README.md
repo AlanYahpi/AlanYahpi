@@ -24,6 +24,5 @@
 
 ###
 - 🔭 I’m currently working on **An accounting system to automatize my homework**
-- 🌱 I’m currently learning **Kernel Development**
 - 👯 I’m looking to collaborate on **Embedded systems projects and/or kernel development**
 - ⚡ Fun fact: I love Aurora Aksnes music
