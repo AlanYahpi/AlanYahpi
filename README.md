@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 16 yo teen exploring and mastering embedded systems and low level computing, learning linux kernel development. I follow C standards but I do not limit myself</p>
+<p align="left">I'm a 16 yo teen exploring and mastering embedded systems and low level computing. I follow C standards but I do not limit myself</p>
 
 ###
 
