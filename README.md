@@ -1,12 +1,14 @@
-<h1 align="left">About me</h1>
+<h2 align="center">Hi</h2>
 
-###
+<p align="center">I'm a 16 yo teen exploring and mastering embedded systems and low level computing.</p>
 
-<p align="left">I'm a 16 yo teen exploring and mastering embedded systems and low level computing. I follow C standards but I do not limit myself</p>
+Embedded systems engineer (By soul because by university title no yet)
 
-###
 
-<h2 align="left">Infinity Stones</h2>
+
+
+When I am not coding, I am writting, reading or taking pics, no social media yet.
+- ⚡ Fun fact: I love Aurora Music
 
 ###
 
@@ -17,10 +19,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
-###
-- ⚡ Fun fact: I love Aurora Aksnes music
+
+
+
+
