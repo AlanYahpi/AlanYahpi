@@ -1,16 +1,18 @@
-<h2 align="center">Hi</h2>
+<h2 align="center">Hi, I am Alan ☝️</h2>
 
-<p align="center">I'm a 16 yo teen exploring and mastering embedded systems and low level computing.</p>
+<p align="center">I'm a 16 yo teen exploring and mastering embedded systems and low level enviroments</p>
 
-Embedded systems engineer (By soul because by university title no yet)
+-> Embedded systems engineer (By soul because by university title no yet)
 
+### About me 🧍
+- Currently studying embedded systems through ESP32, STM32 & Raspberry pi
+- Aiming for an electrical major
+- I want to make projects that nobody thought
+- When I am not on PC, I write or read 📚
+- Hugest fan of [Aurora Aksnes](https://youtu.be/Y1YTg6SEed8?t=4)
+- Looking to live in a norwergian forest 🏕️
 
-
-
-When I am not coding, I am writting, reading or taking pics, no social media yet.
-- ⚡ Fun fact: I love Aurora Music
-
-###
+### My ol' reliable 🛠
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
@@ -19,12 +21,10 @@ When I am not coding, I am writting, reading or taking pics, no social media yet
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
+### Contact 📫
+I am actually open to talk, make collaborative projects or just exchange ideas. A job also, but I'm not sharing personal info so easy
 
 
-
-
+✉️ alandev.contact@proton.me
