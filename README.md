@@ -1,8 +1,8 @@
 <h2 align="center">Hi, I am Alan ☝️</h2>
 
-<p align="center">I'm a 16 yo teen exploring and mastering embedded systems and low level enviroments</p>
+<p align="center">I'm a 16 yo teen exploring and mastering embedded systems and low level enviroments.</p>
 
--> Embedded systems engineer (By soul because by university title no yet)
+-> Embedded systems engineer (By soul because by university title no yet).
 
 ### About me 🧍
 - Currently studying embedded systems through ESP32, STM32 & Raspberry pi
@@ -24,7 +24,7 @@
 </div>
 
 ### Contact 📫
-I am actually open to talk, make collaborative projects or just exchange ideas. A job also, but I'm not sharing personal info so easy
+I am actually open to talk, make collaborative projects or just exchange ideas. A job also, but I'm not sharing personal info so easy.
 
 
 ✉️ alandev.contact@proton.me
