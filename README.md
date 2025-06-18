@@ -24,14 +24,6 @@
   <img width="12" />
 </div>
 
-# Repositories
-I moved to codeberg -> [My profile](https://codeberg.org/AlanYahpi)
-## Look at my repos (chronologically)
-
-### [Embedded Linux Monitor](https://codeberg.org/AlanYahpi/EmbeddedLinuxMonitor)
-### [C-hess (a little chess GUI) ](https://codeberg.org/AlanYahpi/C-hess)
-### Bin Dis (a graphic renderer bitwise) **On build, coming soon**
-
 ### Contact 📫
 I am actually open to talk, make collaborative projects or just exchange ideas. A job also, but I'm not sharing personal info so easy.
 
