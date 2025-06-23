@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I am Alan ☝️</h2>
+<h2 align="center">Hi</h2>
 
 <p align="center">I'm a 16 yo teen exploring and mastering embedded systems and low level enviroments.</p>
 
