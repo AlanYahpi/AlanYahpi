@@ -11,7 +11,7 @@
 - When I am not on PC, I write or read 📚
 - Hugest fan of [Aurora Aksnes](https://youtu.be/Y1YTg6SEed8?t=4)
 - Looking to live in a norwergian forest 🏕️
-- I speak Spanish, English & Italian. French & Norwergian on hold.
+- I speak Spanish, English & Italian. French, Latin & Norwergian on hold.
 
 ### My ol' reliable 🛠
 
