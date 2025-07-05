@@ -1,6 +1,6 @@
 <h2 align="center">Hi</h2>
 
-<p align="center">I'm a 16 yo teen exploring and mastering embedded systems and low level enviroments.</p>
+<p align="center">I'm exploring and mastering embedded systems and low level enviroments.</p>
 
 -> Embedded systems engineer (By soul because by university title no yet).
 
@@ -15,16 +15,8 @@
 
 ### My ol' reliable 🛠
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" width="40" alt="embeddedc logo" style="margin-right: 12px;" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" style="margin-right: 12px;" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
 </div>
-
-
-### Contact 📫
-I am actually open to talk, make collaborative projects or just exchange ideas. A job also, but I'm not sharing personal info so easy.
-
-
-✉️ alandev.contact@proton.me
