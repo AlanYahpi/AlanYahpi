@@ -14,6 +14,8 @@
 - I speak Spanish, English & Italian. French, Latin & Norwergian on hold.
 
 ### My ol' reliable 🛠
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo" style="margin-right: 12px;" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" style="margin-right: 12px;" />
