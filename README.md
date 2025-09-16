@@ -6,7 +6,7 @@
 
 ### About me 🧍
 - Currently studying embedded systems through ESP32, STM32 & Raspberry pi
-- Aiming for an electrical major
+- Aiming for a biomedic major
 - I want to make projects that nobody thought
 - When I am not on PC, I write or read 📚
 - Hugest fan of [Aurora Aksnes](https://youtu.be/Y1YTg6SEed8?t=4)
